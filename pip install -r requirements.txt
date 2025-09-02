@@ -1,0 +1,6 @@
+
+Signals will be printed, saved to `trade_signals.csv`, and shown on a chart.
+
+## License
+
+MIT License
